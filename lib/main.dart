@@ -13,13 +13,13 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   Get.put(AuthController());
-  // runApp(const MyApp());
-  runApp(
-    DevicePreview(
-      enabled: true,
-      builder: (context) => MyApp(), // Wrap your app
-    ),
-  );
+  runApp(const MyApp());
+  // runApp(
+  //   DevicePreview(
+  //     enabled: true,
+  //     builder: (context) => MyApp(), // Wrap your app
+  //   ),
+  // );
 }
 
 class MyApp extends StatelessWidget {

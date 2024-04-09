@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497483823611",
+    "project_id": "emcus-ble-1d153",
+    "storage_bucket": "emcus-ble-1d153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497483823611:android:df0a8222abf01b4f85b35e",
+        "android_client_info": {
+          "package_name": "com.emcus_ble.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmtSOTMnziJ2YJfZHouuq3iylhLI5AU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
